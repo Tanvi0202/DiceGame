@@ -18,4 +18,4 @@ The Project “Dice Game: Let’s Roll” has been made with the use of HTML,CSS
 
 # Website Link
 
-https://64fa2a59ce8bb94a0caaba9d--subtle-paletas-3da877.netlify.app/
+https://subtle-paletas-3da877.netlify.app/
